@@ -4,11 +4,17 @@ This repository contains an implementation of a simple neural network designed t
 
 ## Overview
 
+![X and O Neural Network hebb png](https://github.com/realLifeNecromancer/X-O-Pattern-Recognizer/assets/108059668/b45b3bb6-1f66-4fca-8756-2c2ded89b5de)
+
+
 The neural network is implemented using Python and consists of two main components:
 
 1. `neuralNetworks.ipynb`: This Jupyter Notebook contains the core logic of the neural network and the Hebbian learning algorithm. It provides the implementation for the training process, including weight and bias adjustments, and activation functions. The notebook initializes the weights and bias and contains the code for the Hebbian learning algorithm.
 
 2. `Perdict.ipynb`: This Jupyter Notebook implements the graphical user interface (GUI) using the Tkinter library. The GUI allows users to interact with a 5x5 panel of buttons to create patterns of X and O. These patterns are then passed to the trained neural network for prediction. The GUI also includes options to reset the panel and make predictions.
+
+![X and O Neural Network hebb 1 ](https://github.com/realLifeNecromancer/X-O-Pattern-Recognizer/assets/108059668/ebeefb37-9809-4800-a7f3-37cc4f46caa4)
+![X and O Neural Network hebb png 2 ](https://github.com/realLifeNecromancer/X-O-Pattern-Recognizer/assets/108059668/16bdb194-6450-4cfc-82c1-37e77b0780c5)
 
 ## Getting Started
 
