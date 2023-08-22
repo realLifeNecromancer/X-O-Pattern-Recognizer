@@ -1,5 +1,3 @@
-# X-O-Pattern-Recognizer
-
 # X and O Neural Network
 
 This repository contains an implementation of a simple neural network designed to differentiate between the letters X and O based on user inputs on a 5x5 panel. The neural network utilizes the Hebbian learning algorithm to learn and recognize the patterns of X and O.
